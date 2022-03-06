@@ -17,3 +17,19 @@ Things to learn in Javascript:
   - const
   - let
 
+- Global scope and local scope
+  - https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript
+
+How to make variable usable outside of scope.
+
+// Use var to initialize a variable
+var species = "human";
+
+if (fullMoon) {
+  // Attempt to create a new variable in a block
+  var species = "werewolf";
+  console.log(`It is a full moon. Lupin is currently a ${species}.`);
+}
+
+console.log(`It is not a full moon. Lupin is currently a ${species}.`);
+  
