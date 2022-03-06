@@ -32,4 +32,7 @@ if (fullMoon) {
 }
 
 console.log(`It is not a full moon. Lupin is currently a ${species}.`);
+
+How to save data in CSV
+https://www.javatpoint.com/javascript-create-and-download-csv-file
   
