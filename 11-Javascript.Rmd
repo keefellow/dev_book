@@ -1,0 +1,19 @@
+# Introduction {#intro}
+
+Things to learn in Javascript: 
+
+- How to include Javascript for use in the HTML
+  - Internal Javascript
+  - External Javascript
+  
+- How to display Javascript output
+  - using innerHTML
+  - document.write()
+  - window.alert()
+  - console.log()
+  
+- How to declare variables
+  - var
+  - const
+  - let
+
