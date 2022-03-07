@@ -49,3 +49,8 @@ var object = {
 Accessing object by object.age or object.alerting().
 Add to object by object.somethingNew = "new ideas";
 Delete something unwanted in the object using delete object.age
+
+
+Data frame in javascript
+https://danfo.jsdata.org/getting-started
+
