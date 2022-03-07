@@ -35,4 +35,13 @@ console.log(`It is not a full moon. Lupin is currently a ${species}.`);
 
 How to save data in CSV
 https://www.javatpoint.com/javascript-create-and-download-csv-file
-  
+
+
+How to create an object
+var object = { 
+  age : 12,
+  happy: true, 
+  alerting : function(){
+  alert("hello)
+}; 
+
