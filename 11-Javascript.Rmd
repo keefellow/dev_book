@@ -42,6 +42,10 @@ var object = {
   age : 12,
   happy: true, 
   alerting : function(){
-  alert("hello)
+  alert("hello), 
+  
 }; 
 
+Accessing object by object.age or object.alerting().
+Add to object by object.somethingNew = "new ideas";
+Delete something unwanted in the object using delete object.age
