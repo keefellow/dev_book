@@ -14,3 +14,6 @@ https://learning.oreilly.com/library/view/natural-language-processing/9781098122
 
 https://learning.oreilly.com/library/view/natural-language-processing/9781098122652/xhtml/ch04.xhtml#lev45
 https://www.youtube.com/watch?v=3kcjbzy4UPM
+
+
+Be familiar with document term matrix
