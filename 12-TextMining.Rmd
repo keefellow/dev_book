@@ -1,1 +1,15 @@
+# Introduction 
 
+https://opennlp.apache.org/ 
+
+
+
+https://learning.oreilly.com/library/view/mastering-text-mining/9781783551811/ch05.html
+
+https://learning.oreilly.com/library/view/practical-text-mining/9780123869791/xhtml/CHP005.html#CESECTITLE0100
+
+https://learning.oreilly.com/library/view/text-mining-with/9781491981641/ch06.html
+
+https://learning.oreilly.com/library/view/natural-language-processing/9781098122652/xhtml/app01.xhtml#lev174
+
+https://learning.oreilly.com/library/view/natural-language-processing/9781098122652/xhtml/ch04.xhtml#lev45
