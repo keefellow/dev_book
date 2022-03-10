@@ -56,3 +56,13 @@ https://danfo.jsdata.org/getting-started
 
 https://js4ds.org/ 
 
+Eloquent JavaScript: A Modern Introduction to Programming
+Haverbeke, Marijn
+https://ebookcentral.proquest.com/lib/nielib-ebooks/reader.action?docID=1931623&ppg=229 
+
+Data visualization with JavaScript / Stephen A. Thomas.
+Thomas, Stephen A., 1962- author.
+https://ebookcentral.proquest.com/lib/nielib-ebooks/reader.action?docID=4503149
+
+Vue JS
+https://ebookcentral.proquest.com/lib/nielib-ebooks/reader.action?docID=5322215&ppg=19
