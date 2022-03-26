@@ -78,3 +78,8 @@ https://pdf-lib.js.org/#install
 https://jsfiddle.net/Hopding/rxwsc8f5/13/
 
 ## how to use persistent data
+
+
+Plan -
+Make a seperate page to create the download PDF. 
+- see if can port the data over. may not be possible.  
