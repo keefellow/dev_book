@@ -70,3 +70,9 @@ Vue JS
 https://ebookcentral.proquest.com/lib/nielib-ebooks/reader.action?docID=5322215&ppg=19
 
 https://freshman.tech/random-quote-machine/
+
+
+## Create PDF
+
+https://pdf-lib.js.org/#install 
+https://jsfiddle.net/Hopding/rxwsc8f5/13/
