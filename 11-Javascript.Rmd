@@ -84,3 +84,10 @@ Plan -
 Make a seperate page to create the download PDF. 
 - see if can port the data over. may not be possible.  
 - use same page. persistent data
+
+Graph-based data
+- https://gun.eco/
+- https://graphql.org/
+- https://neo4j.com/
+- https://www.g2.com/categories/graph-databases/free
+- https://uhack-guide.readthedocs.io/en/latest/technical/graph-dbs/
